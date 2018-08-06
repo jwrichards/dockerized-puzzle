@@ -20,5 +20,7 @@ Each Agent is receiving orders in files disguised as celebrity gossip or media -
 To Play:
 
 docker build .
+
 docker run -it [containerID]
+
 Identify the links: Celebrity-Person-Codename
